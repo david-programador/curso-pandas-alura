@@ -1,0 +1,6 @@
+Base dos nomes
+Neste treinamento, vamos aprender como ler dados de uma API através do pandas. Os dados que usaremos neste treinamento se encontram no seguintes links:
+
+https://guilhermeonrails.github.io/nomes_ibge/nomes-f.json
+
+https://guilhermeonrails.github.io/nomes_ibge/nomes-m.json
